@@ -11,7 +11,8 @@ A simple and interactive web tool built with **Next.js** and **Tailwind CSS** th
 -  Radius input persists using `localStorage`
 -  Clean, geometry-themed color palette
 
-[text](C:/)
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/a56663e1-81a1-4249-801a-643d103a430d" />
+
 
 
 ##  Built With
